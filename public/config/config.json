@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x81ea811865636875bb04f49126c33831e9d49c50",
+  "MINT_ADDRESS": "0x81ea811865636875bb04f49126c33831e9d49c50",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x2a41aac3cd2bb53427b38bae338f73f950ea37b1#writeContract",
+  "NETWORK": {
+    "NAME": "BSC Smart Chain",
+    "SYMBOL": "BUSD",
+    "ID": 56
+  },
+  "MAX_SUPPLY": 200000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "SHOW_BACKGROUND": true
+}
